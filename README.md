@@ -62,7 +62,7 @@ A free, unified AI platform designed to enhance productivity and collaboration b
 - 🌐 [Website](https://orionai.pro)
 
 **Special Thanks:** 🙏
-A heartfelt thank you to **[Surendhar-SRS](https://github.com/Surendhar-SRS)** (Founder of Orion AI Workspace) for giving me the incredible opportunity to contribute to this revolutionary project. His vision, leadership, and mentorship have been instrumental in my growth as a developer and designer!
+A heartfelt thank you to **[Surendhar-SRS](https://github.com/Surendhar-SRS)** (Founder/Developer of Orion AI Workspace) for giving me the incredible opportunity to contribute to this revolutionary project. His vision, leadership, and mentorship have been instrumental in my growth as a developer and designer!
 
 ## 📫 Connect with Me
 
