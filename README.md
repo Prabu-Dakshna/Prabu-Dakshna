@@ -57,7 +57,7 @@ A free, unified AI platform designed to enhance productivity and collaboration b
 **Tech Stack:** Python, Web Technologies, AI/ML Frameworks
 
 **Links:**
-- 🔗 [Live Demo (Outdated)]([https://orionai.pro](https://orionaiworkspace.tech/))
+- 🔗 [Live Demo (Updated version coming soon)]([https://orionai.pro](https://orionaiworkspace.tech/))
 - 📦 [GitHub Repository](https://github.com/OrionAI-Global/Orion-AI-Workspace)
 - 🌐 [Website](https://orionai.pro)
 
