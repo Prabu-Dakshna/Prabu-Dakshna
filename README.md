@@ -57,9 +57,9 @@ A free, unified AI platform designed to enhance productivity and collaboration b
 **Tech Stack:** Python, Web Technologies, AI/ML Frameworks
 
 **Links:**
-- 🔗 [Live Demo](https://orionai.pro)
+- 🔗 [Live Demo (Outdated)]([https://orionai.pro](https://orionaiworkspace.tech/))
 - 📦 [GitHub Repository](https://github.com/OrionAI-Global/Orion-AI-Workspace)
-- 🌐 [Website](https://orionaiworkspace.tech/)
+- 🌐 [Website](https://orionai.pro)
 
 **Special Thanks:** 🙏
 A heartfelt thank you to **[Surendhar-SRS](https://github.com/Surendhar-SRS)** (Founder of Orion AI Workspace) for giving me the incredible opportunity to contribute to this revolutionary project. His vision, leadership, and mentorship have been instrumental in my growth as a developer and designer!
